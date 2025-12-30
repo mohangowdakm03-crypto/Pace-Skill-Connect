@@ -1,0 +1,15 @@
+# --- Java Compiled Files ---
+# We ignore these because users should compile the code themselves
+*.class
+
+# --- Local Database & Logs ---
+# We ignore these so your test data doesn't get uploaded
+pace_students_db.txt
+*.log
+
+# --- Mac OS Junk Files ---
+.DS_Store
+
+# --- IDE Settings (Optional) ---
+.vscode/
+.idea/
