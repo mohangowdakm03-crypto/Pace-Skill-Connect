@@ -46,9 +46,18 @@ Start the Server:
 - java PaceBackend
 
 
-Access the App:
-Open your browser and visit: http://localhost:8080
+**Access the App:**
+(windows0
+- use ngrok localhost 
+- Open your browser and visit: http://localhost:8080
 
+(Mac)
+- open terminal
+- paste this command : ssh -R 80:localhost:8080 nokey@localhost.run
+- hit enter (make sure your network has no restritions for localhost)
+- scan the qr and visit the website
+  
+  
 📸 Screenshots
 
 ## 📸 Screenshots
